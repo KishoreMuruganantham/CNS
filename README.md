@@ -56,8 +56,8 @@ Running these algorithms is straightforward! You'll need a Java Development Kit 
 
 1.  **Clone the Repository (Optional but Recommended):**
     ```bash
-    git clone https://github.com/KishoreMuruganantham/Cryptography-and-Network-Security-.git
-    cd Cryptography-and-Network-Security-
+    git clone https://github.com/KishoreMuruganantham/Cryptography-and-Network-Security.git
+    cd Cryptography-and-Network-Security
     ```
 
 2.  **Compile the Java Files:**
